@@ -1,10 +1,9 @@
 APACHE USAGE INSTRUCTIONS
 ========================
 
-Contents
---------
+# Contents
 
-- [Configuration Files](#configuration-files)
+- [Configuration files](#configuration-files)
 
 # Configuration files
 ## sites-enabled and sites-available directories
